@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">XYZ Enterprises</string>
+    <string name="first_interfeace">Bienvenido a\nEmpresas XYZ!</string>
+    <string name="button_label">Próxima</string>
+    <string name="second_interface">¡Estás un paso más\ncerca!</string>
+</resources>

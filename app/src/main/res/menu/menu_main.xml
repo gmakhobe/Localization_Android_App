@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.givenm.xyzenterprises.MainActivity">
+    <item
+        android:id="@+id/action_english"
+        android:orderInCategory="100"
+        android:title="English"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_french"
+        android:orderInCategory="100"
+        android:title="French"
+        app:showAsAction="never" />
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_spanish"
+        android:orderInCategory="100"
+        android:title="Spanish"
+        app:showAsAction="never" />
+</menu>
